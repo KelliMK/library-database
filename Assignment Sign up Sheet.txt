@@ -1,0 +1,45 @@
+CP363 Project Outline
+
+
+
+Assignment 2 (12 marks): 
+ER Model - A. 
+
+
+Assignment 3 (6 marks): 
+Schema Design – K. and S. 
+ 
+
+Assignment 4 (12 marks): 
+Database Construction – K. and E. 
+Design 10 Simple Queries - A. 
+Designing Views using join queries - S. 
+
+
+Assignment 5 (6 marks):  
+Create at least 7 advanced queries - A. 
+Design menus for advanced queries - K. 
+
+
+Assignment 6 (4 marks): 
+Report all Functional Dependencies -  
+ 
+
+Assignment 7 (4 marks): 
+Normalization in 3NF -  
+Do at the same time as assignment 8?  
+
+
+Assignment 8 (4 marks): 
+Normalization in BCNF - 
+Do at the same time as assignment 7? 
+
+
+Assignment 9 (3 marks): 
+Create a GUI for frontend of database – K.  
+How is this only 3 marks??? 
+ 
+
+Assignment 10 (3 marks): 
+Add Relational Algebra notation to describe SQL queries -  
+Finish writing project report for database project – Everyone Contributes on this one 
